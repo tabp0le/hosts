@@ -516,8 +516,6 @@ fe80::1%lo0 localhost
 #
 # ANALYTICS
 #
-0.0.0.0 analytics.localytics.com
-
 # [Medialytics]
 0.0.0.0 a.medialytics.com
 0.0.0.0 c.medialytics.com
@@ -527,7 +525,6 @@ fe80::1%lo0 localhost
 0.0.0.0 t.medialytics.com
 
 # [Google]
-0.0.0.0 google-analytics.com
 0.0.0.0 googlesyndication.com
 
 # [applift]
@@ -28183,8 +28180,6 @@ fe80::1%lo0 localhost
 0.0.0.0 amung.us
 0.0.0.0 anahtars.com
 0.0.0.0 analytics.adpost.org
-0.0.0.0 analytics.google.com
-0.0.0.0 analytics.yahoo.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 apture.com
 0.0.0.0 arc1.msn.com
@@ -29235,7 +29230,6 @@ fe80::1%lo0 localhost
 0.0.0.0 worldwide-cash.net
 0.0.0.0 wtlive.com
 0.0.0.0 www-banner.chat.ru
-0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www.banner-link.com.br
 0.0.0.0 www.kaplanindex.com
 0.0.0.0 www.money4exit.de
