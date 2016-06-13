@@ -9,12 +9,8 @@
 # Forked by tabp0le and modified a little bit
 # ===============================================================
 
+::1 ip6-localhost
 127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-fe80::1%lo0 localhost
 
 # Custom host records are listed here.
 
